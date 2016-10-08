@@ -1,0 +1,22 @@
+body {
+  padding-top: 50px;
+}
+.title {
+  padding: 40px 15px;
+  text-align: center;
+}
+.section {
+  color:#42c2f4;
+}
+.skills {
+  color:#ffffff;
+}
+.skills span {
+  background-color: #303030;
+  border-color: #303030;
+  border-style: solid;
+  border-radius: 5px; 
+}
+.experience {
+  color:#303030;
+}
