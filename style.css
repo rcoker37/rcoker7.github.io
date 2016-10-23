@@ -1,6 +1,10 @@
 body {
   padding-top: 50px;
 }
+p {
+  font-size: 115%;
+  margin-bottom: 20px;
+}
 .title {
   padding: 40px 15px;
   text-align: center;
@@ -16,6 +20,7 @@ body {
   border-color: #303030;
   border-style: solid;
   border-radius: 5px; 
+  text-align: right;
 }
 .listings {
   color:#303030;
